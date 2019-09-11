@@ -1,0 +1,11 @@
+/Users/nicklandreville/Projects/WordCount/WordCount/bin/Debug/netcoreapp2.1/WordCount.deps.json
+/Users/nicklandreville/Projects/WordCount/WordCount/bin/Debug/netcoreapp2.1/WordCount.runtimeconfig.json
+/Users/nicklandreville/Projects/WordCount/WordCount/bin/Debug/netcoreapp2.1/WordCount.runtimeconfig.dev.json
+/Users/nicklandreville/Projects/WordCount/WordCount/bin/Debug/netcoreapp2.1/WordCount.dll
+/Users/nicklandreville/Projects/WordCount/WordCount/bin/Debug/netcoreapp2.1/WordCount.pdb
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.csprojAssemblyReference.cache
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.csproj.CoreCompileInputs.cache
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.AssemblyInfoInputs.cache
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.AssemblyInfo.cs
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.dll
+/Users/nicklandreville/Projects/WordCount/WordCount/obj/Debug/netcoreapp2.1/WordCount.pdb
